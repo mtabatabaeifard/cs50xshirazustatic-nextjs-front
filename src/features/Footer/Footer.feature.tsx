@@ -12,6 +12,7 @@ const Footer = (props: Props) => {
           <img src="/icons/cs50xShiraz.svg" alt="" />
           <img src="/icons/shirazu.svg" alt="" />
           <img src="/icons/shirazUniversity.svg" alt="" />
+        <a target='_blank' href='https://trustseal.enamad.ir/?id=462230&Code=t0dYPshCSpfg0A0BRKXC4Ks43lHeEq1X'><img src='images/enamad.png' alt=''></img></a>
         </div>
         <FooterBox
           title="لینک های مفید:"
