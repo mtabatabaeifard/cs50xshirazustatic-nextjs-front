@@ -5,7 +5,7 @@ import React from "react";
 type Props = {
   renderSecondary: boolean;
 };
-const teamMembers: ITeam[] = [
+export const teamMembers: ITeam[] = [
   {
     name: "محمدحسین طباطبائی فرد",
     title: "مدرس و بنیان گذار",

@@ -32,7 +32,7 @@ export const AboutCS50x = (props: Props) => {
       </div>
       <HeadingPrimay
         className="font-IranYekan text-3xl"
-        title="ویژگی های دوره ی ما"
+        title="ویژگی های دوره های ما"
       />
       <CourseFeatures />
       <p className="text-justify p-5 text-quinary text-2xl font-semibold lg:text-lg">

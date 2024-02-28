@@ -117,3 +117,43 @@
       transform: rotate(360deg)
     }
   }
+  .section-title::before{
+    content:"";
+    display: flex;
+    align-items: center;
+    margin-top:1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    justify-content: center;
+    background-color:#820000;
+    border-radius:2rem;
+    width: 10rem;
+    height: .5rem;
+  }
+  .section-title::after{
+    content:"";
+    display: flex;
+    align-items: center;
+    margin-top:1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    justify-content: center;
+    background-color:#820000;
+    border-radius:2rem;
+    width: 10rem;
+    height: .5rem;
+  }
+  
+  .section-line::before{
+    content:"";
+    display: flex;
+    align-items: center;
+    margin-top:1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    justify-content: center;
+    background-color:#820000;
+    border-radius:2rem;
+    width: 50rem;
+    height: .5rem;
+  }
